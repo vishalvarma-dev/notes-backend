@@ -51,3 +51,4 @@ RESTful API backend for the Notes App, built with Node.js, Express, Prisma ORM, 
 - `POST /api/notes` - Create a new note (`title`, `content`) (Requires Bearer token)
 - `PUT /api/notes/:id` - Update existing note (`title`, `content`) (Requires Bearer token)
 - `DELETE /api/notes/:id` - Delete note (Requires Bearer token)
+
